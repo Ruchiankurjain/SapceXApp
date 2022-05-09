@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SpaceXApp/static/css/main.bf62dc8b.css",
+    "main.js": "/SpaceXApp/static/js/main.9f003783.js",
+    "static/js/787.58081eb0.chunk.js": "/SpaceXApp/static/js/787.58081eb0.chunk.js",
+    "index.html": "/SpaceXApp/index.html",
+    "main.bf62dc8b.css.map": "/SpaceXApp/static/css/main.bf62dc8b.css.map",
+    "main.9f003783.js.map": "/SpaceXApp/static/js/main.9f003783.js.map",
+    "787.58081eb0.chunk.js.map": "/SpaceXApp/static/js/787.58081eb0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf62dc8b.css",
+    "static/js/main.9f003783.js"
+  ]
+}
